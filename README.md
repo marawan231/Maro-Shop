@@ -8,10 +8,29 @@ A simple shop app .
 
 ![20220226_013007](https://user-images.githubusercontent.com/81522801/155817010-1d19865b-e41e-476e-ae1b-d1faca67d483.gif)
 
-## On_Boarding_Screen 
-![Screenshot_2022-02-25-23-58-13-77_558bf60659145e014b50b35154246f6f](https://user-images.githubusercontent.com/81522801/155817436-9673172d-622e-4d17-9813-de9fb64311a2.jpg)
-![Screenshot_2022-02-25-23-58-21-38_558bf60659145e014b50b35154246f6f](https://user-images.githubusercontent.com/81522801/155817438-9eb46465-3bd9-49ab-ac2e-1591b4bc1172.jpg)
-![Screenshot_2022-02-25-23-57-57-54_558bf60659145e014b50b35154246f6f](https://user-images.githubusercontent.com/81522801/155817439-c9504611-4c21-4bbc-acae-1ee646795cf1.jpg)
+
+## On_Boarding_Screen
+
+![20220226_014346](https://user-images.githubusercontent.com/81522801/155818030-cd11899d-a8d8-489a-84bb-17c41349d1ff.gif)
+
+## Login_And_Register_Screen
+
+![20220226_014433](https://user-images.githubusercontent.com/81522801/155818150-a0fe677b-9eff-4d5a-9e81-10418e6fde53.gif)
+
+## Home_Screen
+
+![20220226_014546](https://user-images.githubusercontent.com/81522801/155818184-c71d994b-af5b-4e98-9ca3-56d157910229.gif)
+
+## Cart_Screen
+
+![20220226_014620](https://user-images.githubusercontent.com/81522801/155818262-2ccea2e4-e403-4ba1-bd6b-4ef57bf6127b.gif)
+
+## Favourite_And_Details_And_Drawer
+
+![20220226_014721](https://user-images.githubusercontent.com/81522801/155818233-93110b28-46c6-4926-bd83-0ab758c2954f.gif)
+
+
+
 
 
 
