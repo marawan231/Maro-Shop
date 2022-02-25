@@ -1,9 +1,10 @@
 # shop_app
 
-A new Flutter project.
-
-
-
+A simple shop app .
+- using bloc for state management
+- shop app api
+ 
+## Project Overview
 
 ![20220226_013007](https://user-images.githubusercontent.com/81522801/155817010-1d19865b-e41e-476e-ae1b-d1faca67d483.gif)
 
