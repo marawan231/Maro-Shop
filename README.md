@@ -8,6 +8,10 @@ A simple shop app .
 
 ![20220226_013007](https://user-images.githubusercontent.com/81522801/155817010-1d19865b-e41e-476e-ae1b-d1faca67d483.gif)
 
+## On_Boarding_Screen 
+![Screenshot_2022-02-25-23-58-13-77_558bf60659145e014b50b35154246f6f](https://user-images.githubusercontent.com/81522801/155817436-9673172d-622e-4d17-9813-de9fb64311a2.jpg)
+![Screenshot_2022-02-25-23-58-21-38_558bf60659145e014b50b35154246f6f](https://user-images.githubusercontent.com/81522801/155817438-9eb46465-3bd9-49ab-ac2e-1591b4bc1172.jpg)
+![Screenshot_2022-02-25-23-57-57-54_558bf60659145e014b50b35154246f6f](https://user-images.githubusercontent.com/81522801/155817439-c9504611-4c21-4bbc-acae-1ee646795cf1.jpg)
 
 
 
